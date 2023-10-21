@@ -1,0 +1,1 @@
+C:\Users\kolya\IdeaProjects\ABOBA\build\classes\kotlin\main\demo\Main.class;C:\Users\kolya\IdeaProjects\ABOBA\build\classes\kotlin\main\demo\MainKt.class
